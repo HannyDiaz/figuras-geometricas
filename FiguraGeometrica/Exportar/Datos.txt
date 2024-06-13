@@ -1,0 +1,19 @@
+Datos: Figura seleccionada Rectangulo, 
+Sus datos son:
+Base: 2
+Altura: 8
+
+
+Datos: 
+
+
+Datos: Figura seleccionada Rectangulo, 
+Sus datos son:
+Base: 8
+Altura: 9
+Area= 72
+Perimetro= 34
+Volumen, no se calcula en figuras planas
+
+
+
